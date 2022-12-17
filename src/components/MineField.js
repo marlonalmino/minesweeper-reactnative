@@ -6,7 +6,8 @@ export default props => {
   const rows = props.board.map((row, r) => {
     const columns = row.map((field, f) => {
       return <Field {...field} key={f}
-        onOpen={() => props.onOpenField(r, f)} />
+        onOpen={() => props.onOpenField(r, f)}
+        onSelect={e => props.onSelectField(r, f)} />
     })
     return <View key={r} style={{ flexDirection: 'row' }}>{columns}</View>
   })
