@@ -13,4 +13,17 @@ Jogo Campo Minado feito utilizando os conceitos de React Native
 `npx react-native run-android` para inicializar a aplicação no emulador
 
 ## Demonstração
-<img src="https://blog.acelerato.com/wp-content/uploads/2018/08/wip.jpg" alt="drawing" width="200"/>
+
+#### Jogando uma partida
+<img src="https://i.imgur.com/aBJiMrt.gif" alt="drawing" width="200"/>
+
+#### Telas do Jogo
+<p>
+  <img src="https://i.imgur.com/kd9mcES.png" alt="drawing" width="200"/>
+  <img src="https://i.imgur.com/aflWEfy.png" alt="drawing" width="200"/>
+  <img src="https://i.imgur.com/BCLzcdI.png" alt="drawing" width="200"/>
+</p>
+<p>
+  <img src="https://i.imgur.com/sBQJKWw.png" alt="drawing" width="200"/>
+  <img src="https://i.imgur.com/MQijXLt.png" alt="drawing" width="200"/>
+</p>
